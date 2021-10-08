@@ -6,6 +6,8 @@
 - 🎓 I'm a sophomore in Hanyang University ERICA!
 - 🏠 I lives in Ansan, South Korea!
 
+</br>
+
 <!-- lang -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahyun27&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
