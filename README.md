@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ### Tools
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={ksknh7})](https://solved.ac/{ksknh7})
+[![https://solved.ac/profile/ksknh7](http://mazassumnida.wtf/api/generate_badge?boj={ksknh7})](https://solved.ac/{ksknh7})
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnahyun27&count_bg=%23F7CAC9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!-- 
