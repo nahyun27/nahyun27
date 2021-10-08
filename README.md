@@ -12,7 +12,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahyun27&show_icons=true&theme=dracula)
 
 </br>
----
+-------
 <h3><b>🛠 Tech Stack 🛠</b></h3>
 <h4><b>Languages</b></h4>
 <p>
@@ -44,10 +44,11 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> 
 </p>
 </br>
----
+-------
 <h4><b>Baekjoon</b></h4>
 <p>Gold 🏅</p>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ksknh7)](https://solved.ac/ksknh7)
+</br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksknh7)](https://solved.ac/ksknh7)
 
 </br>
