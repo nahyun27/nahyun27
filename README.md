@@ -1,4 +1,7 @@
-### 🤗 Welcome! I'm nahyun! 🤗
+![header](https://capsule-render.vercel.app/api?type=Waving&color=223&height=300&section=header&text=Nahyun's%20github&fontSize=80&fontColor=F7cac9&animation=fadeIn)
+
+# 🤗 Welcome! 🤗
+### I'm nahyun!
 
 <!-- lang -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahyun27&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
