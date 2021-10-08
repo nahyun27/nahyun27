@@ -2,11 +2,11 @@
 
 <h1><b> 🤗 Welcome! I'm nahyun! 🤗</b></h1>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnahyun27%2F&count_bg=%23FFB9C1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 - 💻 I'm majoring in Computer Science!
 - 🎓 I'm a sophomore in Hanyang University ERICA!
 - 🏠 I lives in Ansan, South Korea!
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnahyun27%2F&count_bg=%23FFB9C1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!-- lang -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahyun27&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
