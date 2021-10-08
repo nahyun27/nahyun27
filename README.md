@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=223&height=250&section=header&text=Nahyun's%20github&fontSize=60&fontColor=F7cac9&animation=fadeIn)
 
-# 🤗 Welcome! 🤗
+## 🤗 Welcome! 🤗
 ### I'm nahyun!
 
 <!-- lang -->
@@ -23,3 +23,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Languages
+
+
+### Tools
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnahyun27&count_bg=%23F7CAC9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- 
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) -->
