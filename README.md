@@ -1,7 +1,7 @@
 ### 🤗 Welcome! I'm nahyun! 🤗
 
 <!-- lang -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahyun27&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahyun27&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- stats -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahyun27&show_icons=true&theme=dracula)
