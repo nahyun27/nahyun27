@@ -2,16 +2,18 @@
 
 <h3><b> 🤗 Welcome! I'm nahyun! 🤗</b></h3>
 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnahyun27%2F&count_bg=%23FFB9C1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!-- lang -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahyun27&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- stats -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nahyun27&show_icons=true&theme=dracula)
 
-
-<h3><b>🛠 Tech Stack 🛠</b></h3>
 </br>
-
+---
+<h3><b>🛠 Tech Stack 🛠</b></h3>
 <h4><b>Languages</b></h4>
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a> &nbsp
@@ -41,18 +43,14 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> 
 </p>
-
-
+</br>
+---
 <h4><b>Baekjoon</b></h4>
 <p>Gold 🏅</p>
-
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ksknh7)](https://solved.ac/ksknh7)
-</br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksknh7)](https://solved.ac/ksknh7)
 
 </br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnahyun27%2F&count_bg=%23FFB9C1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!-- 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
