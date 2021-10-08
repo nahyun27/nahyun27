@@ -1,7 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=223&height=250&section=header&text=Nahyun's%20github&fontSize=60&fontColor=F7cac9&animation=fadeIn)
 
-<h3><b> 🤗 Welcome! I'm nahyun! 🤗</b></h3>
+<h1><b> 🤗 Welcome! I'm nahyun! 🤗</b></h1>
 
+- 💻 I'm majoring in Computer Science!
+- 🎓 I'm a sophomore in Hanyang University ERICA!
+- 🏠 I lives in Ansan, South Korea!
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnahyun27%2F&count_bg=%23FFB9C1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
