@@ -44,7 +44,8 @@
 
 
 <h4><b>Baekjoon</b></h4>
-Gold 🏅
+<p>Gold 🏅</p>
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ksknh7)](https://solved.ac/ksknh7)
 </br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksknh7)](https://solved.ac/ksknh7)
