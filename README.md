@@ -3,9 +3,6 @@
 ## 🤗 Welcome! 🤗
 ### I'm nahyun!
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=ksknh7)](https://solved.ac/ksknh7)
-
-
 <!-- lang -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahyun27&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -32,8 +29,9 @@ Here are some ideas to get you started:
 
 
 ### Tools
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ksknh7)](https://solved.ac/ksknh7)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=ksknh7)](https://solved.ac/ksknh7)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksknh7)](https://solved.ac/ksknh7)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnahyun27&count_bg=%23F7CAC9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!-- 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
