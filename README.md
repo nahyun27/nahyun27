@@ -49,15 +49,9 @@
 
 ***
 
-<h4><b>Baekjoon</b></h4>
+<h3><b>Baekjoon</b></h3>
 <p>Gold 🏅</p>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ksknh7)](https://solved.ac/ksknh7)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksknh7)](https://solved.ac/ksknh7)
-
-
-<!-- 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) -->
