@@ -60,3 +60,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ksknh7)](https://solved.ac/ksknh7)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksknh7)](https://solved.ac/ksknh7)
+
+![snake gif](https://github.com/[GitHub 아이디]/[GitHub 아이디]/blob/output/github-contribution-grid-snake.svg)
+
+
