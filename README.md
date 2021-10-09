@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=223&height=250&section=header&text=Nahyun's%20github&fontSize=60&fontColor=F7cac9&animation=fadeIn)
 
+
+![snake gif](https://github.com/nahyun27/nahyun27/blob/output/github-contribution-grid-snake.svg)
+
 <h1><b> 🤗 Welcome! I'm nahyun! 🤗</b></h1>
 
 - 💻 I'm majoring in Computer Science!
@@ -60,7 +63,5 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ksknh7)](https://solved.ac/ksknh7)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksknh7)](https://solved.ac/ksknh7)
-
-![snake gif](https://github.com/nahyun27/nahyun27/blob/output/github-contribution-grid-snake.svg)
 
 
