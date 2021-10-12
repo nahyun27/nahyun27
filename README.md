@@ -5,7 +5,7 @@
 
 - 💻 I'm majoring in Computer Science!
 - 🎓 I'm a sophomore in Hanyang University ERICA!
-- 🏠 I lives in Ansan, South Korea!
+- 🏠 I live in Ansan, South Korea!
 
 </br>
 
