@@ -37,10 +37,10 @@
 </p>
 
 <h4><b>Frameworks</b></h4>
+<p>
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a> &nbsp
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/></a> &nbsp
-<p>
 </p>
 
 <h4><b>Platforms</b></h4>
