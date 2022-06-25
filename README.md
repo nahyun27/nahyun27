@@ -56,8 +56,8 @@
 </br>
 
 
- <img src="http://mazandi.herokuapp.com/api?handle={백준닉네임}&theme=warm"/>
-***
+<img src="http://mazandi.herokuapp.com/api?handle=nahyun27&theme=warm"/>
+
 
 <h3><b>Baekjoon</b></h3>
 <p>Gold 🏅</p>
