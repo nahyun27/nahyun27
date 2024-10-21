@@ -20,7 +20,7 @@
 </br>
 
 ***
-
+<!-- 
 <h3><b>🛠 Tech Stack 🛠</b></h3>
 <h4><b>Languages</b></h4>
 <p>
@@ -55,7 +55,7 @@
 </p>
 </br>
 
-
+-->
 <img src="http://mazandi.herokuapp.com/api?handle=ksknh7&theme=warm"/>
 
 
