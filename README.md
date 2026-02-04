@@ -9,7 +9,7 @@
 
 ### 🧑‍🔬 About Me
 
-- 🎓 **Ph.D. Integrated Program (3rd year)**  
+- 🎓 **Ph.D. Student in CS**  
   **Graduate School of Hanyang University**
   
 - 💻 Major in **Computer Science**
