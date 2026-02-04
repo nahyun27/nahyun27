@@ -6,14 +6,18 @@
 <p align="center">
   Ph.D. Integrated Program Student · Computer Science · Researcher 💡
 </p>
+
 ### 🧑‍🔬 About Me
+
 - 🎓 **Ph.D. Integrated Program (3rd year)**  
   **Graduate School of Hanyang University**
+  
 - 💻 Major in **Computer Science**
 - 🧠 Research Interests:
   - **Artificial Intelligence & Machine Learning**
   - **Adversarial Attacks / Robust AI**
   - **Security & Trustworthy Systems**
+
 
 ### 📊 Algorithm & Problem Solving
 <img src="http://mazandi.herokuapp.com/api?handle=ksknh7&theme=warm"/>
