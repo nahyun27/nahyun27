@@ -7,8 +7,6 @@
 - 🎓 I'm a sophomore in Hanyang University ERICA!
 - 🏠 I live in Ansan, South Korea!
 
-
--->
 <img src="http://mazandi.herokuapp.com/api?handle=ksknh7&theme=warm"/>
 
 
