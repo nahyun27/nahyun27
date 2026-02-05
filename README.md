@@ -1,12 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=223&height=250&section=header&text=Nahyun's%20github&fontSize=60&fontColor=F7cac9&animation=fadeIn)
 
-
-<h1><b> 🤗 Welcome! I'm nahyun! 🤗</b></h1>
-
-<p align="center">
-  Ph.D. Integrated Program Student · Computer Science · Researcher 💡
-</p>
-
 ### 🧑‍🔬 About Me
 
 - 🎓 **Ph.D. Student in CS**  
