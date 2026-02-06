@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=223&height=250&section=header&text=Hello%20I'm%20Nahyun&fontSize=60&fontColor=F7cac9&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=223&height=250&section=header&text=Hello%20I'm%20Nahyun!&fontSize=60&fontColor=F7cac9&animation=fadeIn)
 
 ### 🧑‍🔬 About Me
 
