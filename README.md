@@ -14,7 +14,7 @@
 
 <img src="https://stats-github-readme.vercel.app/api?username=nahyun27&show_icons=true&theme=tokyonight" />
 <img src="https://stats-github-readme.vercel.app/api/top-langs/?username=nahyun27&layout=compact&theme=tokyonight" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahyun27&langs_count=8)](https://github.com/nahyun27/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahyun27&layout=compact&theme=tokyonight)](https://github.com/nahyun27/github-readme-stats)
   
 ### 📊 Algorithm & Problem Solving
 <!-- <img src="http://mazandi.herokuapp.com/api?handle=ksknh7&theme=warm"/> -->
