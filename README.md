@@ -16,6 +16,8 @@
 <img src="https://stats-github-readme.vercel.app/api/top-langs/?username=nahyun27&layout=compact&theme=tokyonight" />
   
 ### 📊 Algorithm & Problem Solving
-<!-- <img src="http://mazandi.herokuapp.com/api?handle=ksknh7&theme=warm"/> -->
+<!-- <img src="http://mazandi.herokuapp.com/api?handle=ksknh7&theme=warm"/> -->\
+
 (http://mazassumnida.wtf/api/mini/generate_badge?boj=ksknh7)](https://solved.ac/ksknh7)
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksknh7)](https://solved.ac/ksknh7)
