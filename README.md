@@ -13,7 +13,9 @@
 
 
 <img src="https://stats-github-readme.vercel.app/api?username=nahyun27&show_icons=true&theme=tokyonight" />
+
 <img src="https://stats-github-readme.vercel.app/api/top-langs/?username=nahyun27&layout=compact&theme=tokyonight" />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahyun27&layout=compact&theme=tokyonight)](https://github.com/nahyun27/github-readme-stats)
   
 ### 📊 Algorithm & Problem Solving
