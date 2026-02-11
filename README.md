@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Venom&color=0:F19A9A,100:F7cac9&height=250&section=header&text=👋%20Hello,%20I'm%20Nahyun!&fontSize=60&fontColor=222&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=0:F19A9A,100:F7cac9&height=250&strock=F19A9A&section=header&text=👋%20Hello,%20I'm%20Nahyun!&fontSize=60&fontColor=222&animation=fadeIn)
 
 ## 👩🏻‍💻 About Me
 
