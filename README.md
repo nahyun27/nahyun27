@@ -10,6 +10,12 @@ Graduate School of Hanyang University
 - Adversarial Attacks / Robust AI  
 - Security & Trustworthy Systems
 
+### 💻 Development Interests
+- 🎨 **Creative Web Development** - Three.js, WebGL, React Three Fiber
+- ⚡️ **Modern Frontend** - Next.js, TypeScript, Tailwind CSS
+- 📊 **Interactive Visualization** - D3.js, data storytelling
+- 🔮 **ML × Web** - Bringing research to life through interactive demos
+
 ---
 
 ## 📊 GitHub Stats
