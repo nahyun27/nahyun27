@@ -6,13 +6,16 @@
 Graduate School of Hanyang University
 
 ### 🌐 Portfolio
+<div>
 <a href="https://nahyun-portfolio.vercel.app">
   <img src="https://img.shields.io/badge/✦%20PORTFOLIO%20website-Explore%20my%20work!%20→-000000?style=for-the-badge&logo=vercel&logoColor=00C9A7&labelColor=0A0A0A&color=00C9A7&logoWidth=20" height="45"/>
 </a>
-&nbsp;
+</div>
+<div>
 <a href="https://github.com/nahyun27/nahyun-portfolio">
-  <img src="https://img.shields.io/badge/SOURCE-View%20on%20GitHub%20→-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A&color=333" height="45"/>
+  <img src="https://img.shields.io/badge/SOURCE-View%20on%20GitHub%20→-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A&color=555" height="45"/>
 </a>
+</div>
 
 ### 🔬 Research Interests
 - Artificial Intelligence & Machine Learning
