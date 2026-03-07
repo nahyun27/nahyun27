@@ -2,8 +2,8 @@
 
 ## 👩🏻‍💻 About Me
 
-**Ph.D. Student in Computer Science**  
-Graduate School of Hanyang University
+**Ph.D. Student in Computer Science at Hanyang University ACE-LAB**  
+Breaking AI systems by day, building web experiences by night.
 
 ### 🌐 Portfolio
 <div>
@@ -11,24 +11,21 @@ Graduate School of Hanyang University
   <img src="https://img.shields.io/badge/✦%20PORTFOLIO%20website-Explore%20my%20work!%20→-000000?style=for-the-badge&logo=vercel&logoColor=00C9A7&labelColor=0A0A0A&color=00C9A7&logoWidth=20" height="45"/>
 </a>
 </div>
+
+### 📝 Blog
 <div>
-<a href="https://github.com/nahyun27/nahyun-portfolio">
-  <img src="https://img.shields.io/badge/SOURCE-View%20on%20GitHub%20→-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A&color=555" height="45"/>
+<a href="https://nahyun27.github.io">
+  <img src="https://img.shields.io/badge/✍️%20TECH%20BLOG-Read%20my%20articles!%20→-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A&color=FF6B6B" height="45"/>
 </a>
 </div>
 
-### 🔬 Research Interests
-- Artificial Intelligence & Machine Learning
-- Adversarial Attacks / Robust AI  
-- Security & Trustworthy Systems
+### 🎯 What I Do
 
-### 💻 Development Interests
-- 🎨 **Creative Web Development** - Three.js, WebGL, React Three Fiber
-- ⚡️ **Modern Frontend** - Next.js, TypeScript, Tailwind CSS
-- 📊 **Interactive Visualization** - D3.js, data storytelling
-- 🔮 **ML × Web** - Bringing research to life through interactive demos
+**🔬 AI Security Research**  
+Adversarial Attacks • Audio Security (ASR) • Privacy-Preserving ML • Trustworthy AI
 
----
+**💻 Creative Web Development**  
+3D Interactive Experiences (Three.js, WebGL) • Strategic Games • Data Visualization • ML Demos
 
 ## 📊 GitHub Stats
 
@@ -36,7 +33,6 @@ Graduate School of Hanyang University
 
 <img src="https://stats-github-readme.vercel.app/api/top-langs/?username=nahyun27&layout=compact&theme=tokyonight&langs_count=8&hide=html,jupyter%20notebook,css" />
 
----
 
 ## 💻 Algorithm & Problem Solving
 <!-- <img src="http://mazandi.herokuapp.com/api?handle=ksknh7&theme=warm"/> -->
