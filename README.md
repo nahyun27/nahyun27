@@ -3,7 +3,7 @@
 ## 👩🏻‍💻 About Me
 
 **Ph.D. Student in Computer Science at Hanyang University ACE-LAB**  
-Breaking AI systems by day, building web experiences by night.
+Researching AI security by day ☀️, building web experiences by night 🌝.
 
 ### 🌐 Portfolio
 <div>
