@@ -19,12 +19,12 @@ Researching AI security by day ☀️, building web experiences by night 🌝.
 </a>
 </div>
 
-#### 추천 시리즈 → 💻 운영체제 Deep Dive (진행 중 2/10)
-
-: 작정하고 만들어 본 실제 Linux 커널 구현을 바탕으로 OS의 핵심 개념을 파헤치는 시리즈
-
-- **[Part 1: Process & Execution](https://nahyun27.github.io/posts/os-process-part1/)** - `ls`를 치면 무슨 일이 일어날까?
-- **[Part 2: IPC - Pipe](https://nahyun27.github.io/posts/os-ipc-pipe-part2/)** - `ls | grep .c`는 어떻게 동작할까?
+> #### 추천 시리즈 → 💻 운영체제 Deep Dive (진행 중 2/10)
+>
+> : 작정하고 만들어 본 실제 Linux 커널 구현을 바탕으로 OS의 핵심 개념을 파헤치는 시리즈
+>
+> - **[Part 1: Process & Execution](https://nahyun27.github.io/posts/os-process-part1/)** - `ls`를 치면 무슨 일이 일어날까?
+> - **[Part 2: IPC - Pipe](https://nahyun27.github.io/posts/os-ipc-pipe-part2/)** - `ls | grep .c`는 어떻게 동작할까?
 
 ### 🎯 What I Do
 
