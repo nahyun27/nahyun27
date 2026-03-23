@@ -17,13 +17,13 @@ Researching AI security by day ☀️, building web experiences by night 🌝.
 </a>
 </div>
 
-### 🎯 What I Do
+### What I Do
 
 **🔬 AI Security Research**  
-Adversarial Attacks • Audio Security (ASR) • Privacy-Preserving ML • Trustworthy AI
+: Adversarial Attacks • Audio Security (ASR) • Privacy-Preserving ML • Trustworthy AI
 
 **💻 Creative Web Development**  
-3D Interactive Experiences (Three.js, WebGL) • Strategic Games • Data Visualization • ML Demos
+: 3D Interactive Experiences (Three.js, WebGL) • Strategic Games • Data Visualization • ML Demos
 
 ## 📊 GitHub Stats
 
