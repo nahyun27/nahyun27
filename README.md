@@ -5,14 +5,12 @@
 **Ph.D. Student in Computer Science at Hanyang University ACE-LAB**  
 Researching AI security by day ☀️, building web experiences by night 🌝.
 
-### 🌐 Portfolio
 <div>
 <a href="https://nahyun.vercel.app">
   <img src="https://img.shields.io/badge/✦%20PORTFOLIO%20website-Explore%20my%20work!%20→-000000?style=for-the-badge&logo=vercel&logoColor=00C9A7&labelColor=0A0A0A&color=00C9A7&logoWidth=20" height="45"/>
 </a>
 </div>
 
-### 📝 Blog
 <div>
 <a href="https://nahyun27.github.io">
   <img src="https://img.shields.io/badge/✍️%20TECH%20BLOG-Read%20my%20articles!%20→-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A&color=FF6B6B" height="45"/>
