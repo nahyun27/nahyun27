@@ -31,7 +31,7 @@ Adversarial Attacks • Audio Security (ASR) • Privacy-Preserving ML • Trust
 
 <div>
 <img src="https://stats-github-readme.vercel.app/api?username=nahyun27&show_icons=true&theme=tokyonight&count_private=true" />
-<img src="https://stats-github-readme.vercel.app/api/top-langs/?username=nahyun27&layout=compact&theme=tokyonight&langs_count=8&hide=html,jupyter%20notebook,css" />
+<img src="https://stats-github-readme.vercel.app/api/top-langs/?username=nahyun27&layout=compact&theme=tokyonight&langs_count=8&hide=html,jupyter%20notebook,css&card_width=280" />
 </div>
 
 ## 💻 Algorithm & Problem Solving
@@ -48,7 +48,7 @@ Adversarial Attacks • Audio Security (ASR) • Privacy-Preserving ML • Trust
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=nahyun27&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/nahyun27"
-  width="480"
+  width="470"
   height="230"
 />
 </a>
@@ -56,7 +56,7 @@ Adversarial Attacks • Audio Security (ASR) • Privacy-Preserving ML • Trust
 <a href="https://www.gitanimals.org/">
   <img
     src="https://render.gitanimals.org/guilds/680048729661395855/draw"
-    width="480"
+    width="470"
     height="230"
     alt="gitanimals"
   />
