@@ -40,3 +40,10 @@ Adversarial Attacks • Audio Security (ASR) • Privacy-Preserving ML • Trust
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ksknh7)](https://solved.ac/ksknh7)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksknh7)](https://solved.ac/ksknh7)
+
+## 🌱 My Farm
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/nahyun27"/>
+</a>
+
