@@ -47,16 +47,16 @@ Adversarial Attacks • Audio Security (ASR) • Privacy-Preserving ML • Trust
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=nahyun27&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/nahyun27"
-  width="600"
-  height="300"
+  width="500"
+  height="250"
 />
 </a>
 
 <a href="https://www.gitanimals.org/">
       <img
         src="https://render.gitanimals.org/guilds/680048729661395855/draw"
-        width="600"
-        height="300"
+        width="500"
+        height="250"
         alt="gitanimals"
       />
     </a>
