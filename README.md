@@ -22,8 +22,8 @@ Researching AI security by day ☀️, building web experiences by night 🌝.
 **🔬 AI Security Research**  
 : Adversarial Attacks • Audio Security (ASR) • Privacy-Preserving ML • Trustworthy AI
 
-**💻 Creative Web Development**  
-: 3D Interactive Experiences (Three.js, WebGL) • Strategic Games • Data Visualization • ML Demos
+**💻 Creative Development**  
+: 3D Interactive Experiences • RAG • Strategic Games • Data Visualization • ML Demos
 
 ## 📊 GitHub Stats
 
