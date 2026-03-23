@@ -38,7 +38,7 @@ Adversarial Attacks • Audio Security (ASR) • Privacy-Preserving ML • Trust
 
 <div>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ksknh7"/>
-<img src="http://mazandi.herokuapp.com/api?handle=ksknh7&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle=ksknh7&theme=cold"/>
 </div>
 
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ksknh7)](https://solved.ac/ksknh7) -->
