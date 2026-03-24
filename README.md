@@ -2,8 +2,8 @@
 
 ## 👩🏻‍💻 About Me
 
-**Ph.D. Student in Computer Science at Hanyang University ACE-LAB**  
-Researching AI security by day ☀️, building web experiences by night 🌝.
+**Ph.D. Student in Computer Science at Hanyang University ACE Lab.**  
+Researching AI security by day ☀️, pursuing creative exploration across various fields by night 🌝.
 
 <div>
 <a href="https://nahyun.vercel.app">
