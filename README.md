@@ -19,11 +19,11 @@ Researching AI security by day ☀️, pursuing creative exploration across vari
 
 ### What I Do
 
-**🔬 AI Security Research**  
-: Adversarial Attacks • Audio Security (ASR) • Privacy-Preserving ML • Trustworthy AI
+> **🔬 AI Security Research**  
+> : Adversarial Attacks • Audio Security (ASR) • Privacy-Preserving ML • Trustworthy AI
 
-**💻 Creative Development**  
-: 3D Interactive Experiences • RAG • Strategic Games • Data Visualization • ML Demos
+> **💻 Creative Development**  
+> : 3D Interactive Experiences • RAG • Strategic Games • Data Visualization • ML Demos
 
 ## 📊 GitHub Stats
 
