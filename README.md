@@ -29,21 +29,21 @@ Researching AI security by day ☀️, pursuing creative exploration across vari
 
 <table>
   <tr>
-    <td><b>🤖 AI </b></td>
+    <td align="center"><b> AI </b></td>
     <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" /></td>
-    <td><b>💻 Languages</b></td>
+    <td align="center"><b>Languages</b></td>
     <td><img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,c" /></td>
   </tr>
   <tr>
-    <td><b>🌐 Frontend</b></td>
+    <td align="center"><b>Frontend</b></td>
     <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /></td>
-    <td><b>🔧 Backend</b></td>
+    <td align="center"><b>Backend</b></td>
     <td><img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,redis" /></td>
   </tr>
   <tr>
-    <td><b>☁️ Infra</b></td>
+    <td align="center"><b>Infra</b></td>
     <td><img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux" /></td>
-    <td><b>⚙️ Tools</b></td>
+    <td align="center"><b>Tools</b></td>
     <td><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,notion,latex" /></td>
   </tr>
 </table>
