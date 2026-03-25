@@ -43,30 +43,36 @@ Researching AI security by day ☀️, pursuing creative exploration across vari
 
 ## 💻 Algorithm & Problem Solving
 
-<div>
+<!-- <div>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ksknh7"/>
 <img src="http://mazandi.herokuapp.com/api?handle=ksknh7&theme=cold"/>
-</div>
+</div> -->
+
+| ![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksknh7) | ![Mazandi](http://mazandi.herokuapp.com/api?handle=ksknh7&theme=cold) |
+|:-:|:-:|
 
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ksknh7)](https://solved.ac/ksknh7) -->
 
 ## 🌱 My Farm
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=nahyun27&utm_content=farm">
+| [![Farm](https://render.gitanimals.org/farms/nahyun27)](https://www.gitanimals.org/en_US?utm_medium=image&utm_source=nahyun27&utm_content=farm) | [![Guild](https://render.gitanimals.org/guilds/680048729661395855/draw)](https://www.gitanimals.org/) |
+|:-:|:-:|
+
+<!-- <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=nahyun27&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/nahyun27"
   width="420"
   height="230"
 />
-</a>
+</a> -->
 
-<a href="https://www.gitanimals.org/">
+<!-- <a href="https://www.gitanimals.org/">
   <img
     src="https://render.gitanimals.org/guilds/680048729661395855/draw"
     width="420"
     height="230"
     alt="gitanimals"
   />
-</a>
+</a> -->
 
     
