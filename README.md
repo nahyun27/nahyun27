@@ -44,7 +44,7 @@ Researching AI security by day ☀️, pursuing creative exploration across vari
     <td align="center"><b> AI </b></td>
     <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" /></td>
     <td align="center"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,c" /></td>
+    <td><img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,java" /></td>
   </tr>
 </table>
 
