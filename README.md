@@ -25,6 +25,30 @@ Researching AI security by day ☀️, pursuing creative exploration across vari
 > **💻 Creative Development**  
 > : 3D Interactive Experiences • RAG • Strategic Games • Data Visualization • ML Demos
 
+
+## 🛠 Tech Stack
+
+<table>
+  <tr>
+    <td><b>💻 Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,c" /></td>
+    <td><b>🤖 AI & Research</b></td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" /></td>
+  </tr>
+  <tr>
+    <td><b>☁️ Infra</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux" /></td>
+    <td><b>🌐 Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /></td>
+  </tr>
+  <tr>
+    <td><b>⚙️ Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,notion,latex" /></td>
+    <td><b>🔧 Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,redis" /></td>
+  </tr>
+</table>
+
 ## 📊 GitHub Stats
 
 <!-- <div>
