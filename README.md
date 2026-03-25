@@ -29,12 +29,6 @@ Researching AI security by day ☀️, pursuing creative exploration across vari
 
 <table>
   <tr>
-    <td align="center"><b> AI </b></td>
-    <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" /></td>
-    <td align="center"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,c" /></td>
-  </tr>
-  <tr>
     <td align="center"><b>Frontend</b></td>
     <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /></td>
     <td align="center"><b>Backend</b></td>
@@ -44,7 +38,13 @@ Researching AI security by day ☀️, pursuing creative exploration across vari
     <td align="center"><b>Infra</b></td>
     <td><img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux" /></td>
     <td align="center"><b>Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,notion,latex" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,latex" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b> AI </b></td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" /></td>
+    <td align="center"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,js,ts,cpp,java,c" /></td>
   </tr>
 </table>
 
