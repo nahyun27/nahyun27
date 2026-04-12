@@ -30,8 +30,8 @@ Researching AI security by day ☀️, pursuing creative exploration across vari
 
 | Project | Description | Repo | Demo |
 |----------|-------------|------|-------|
-| **🗺️ AlgoTrace** | Interactive algorithm visualization platform (TSP, Dijkstra, A*) | [![Demo](https://img.shields.io/badge/Live-Demo-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://algorithm-trace.vercel.app/) | [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/nahyun27/algotrace) | 
-| **🌙 Rise of Halfmoon** | Google Halfmoon arcade game clone. vanilla JS browser game | [![Play](https://img.shields.io/badge/Play-Game-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://rise-of-halfmoon.vercel.app/) | [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/nahyun27/rise-of-halfmoon) |
+| **🗺️ AlgoTrace** | Interactive algorithm visualization platform | [![Demo](https://img.shields.io/badge/Live-Demo-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://algorithm-trace.vercel.app/) | [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/nahyun27/algotrace) | 
+| **🌙 Rise of Halfmoon** | Google Halfmoon arcade browser game clone via vanilla JS | [![Play](https://img.shields.io/badge/Play-Game-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://rise-of-halfmoon.vercel.app/) | [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/nahyun27/rise-of-halfmoon) |
 | **🏗️ Tower Stacking** | 3D stack tower game. WebGL rendering & collision via Three.js | [![Play](https://img.shields.io/badge/Play-Game-1E90FF?style=for-the-badge&logo=vercel&logoColor=white)](https://tower-stacking.vercel.app/) | [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/nahyun27/stack-tower-3d) |
 
 ## 🛠 Tech Stack
