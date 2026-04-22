@@ -7,7 +7,7 @@ Researching AI security by day ☀️, pursuing creative exploration across vari
 
 <div>
 <a href="https://nahyun.vercel.app">
-  <img src="https://img.shields.io/badge/✦%20PORTFOLIO%20website-Explore%20my%20work!%20→-000000?style=for-the-badge&logo=vercel&logoColor=00C9A7&labelColor=0A0A0A&color=00C9A7&logoWidth=20" height="45"/>
+  <img src="https://img.shields.io/badge/✦%20PORTFOLIO%20website-Explore%20my%20works!%20→-000000?style=for-the-badge&logo=vercel&logoColor=00C9A7&labelColor=0A0A0A&color=00C9A7&logoWidth=20" height="45"/>
 </a>
 </div>
 
