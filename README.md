@@ -28,7 +28,7 @@ Researching AI security by day ☀️, pursuing creative exploration across vari
 
 ## 🚀 Demo Projects
 
-| Project | Description | Repo | Demo |
+| Project | Description | Demo | Repo |
 |----------|-------------|------|-------|
 | **🛡️ KCPEC Platform** | Full-stack education & payment platform for a crime-prevention center (freelance client project) | [![Live](https://img.shields.io/badge/Live-Site-2E8B57?style=for-the-badge&logo=vercel&logoColor=white)](https://kcpec.co.kr) | [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/nahyun27/kcpec-platform) |
 | **🗺️ AlgoTrace** | Interactive algorithm visualization platform | [![Demo](https://img.shields.io/badge/Live-Demo-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://algorithm-trace.vercel.app/) | [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/nahyun27/algotrace) | 
